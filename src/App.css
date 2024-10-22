@@ -1,0 +1,4 @@
+/* src/index.css o src/App.css */
+body {
+  padding-top: 56px; /* Ajusta el valor a la altura de navbar */
+}
